@@ -6,5 +6,18 @@
 <body>
   <h1>¡Hola, mundo!</h1>
   <p>Este es mi primer párrafo. Estoy aprendiendo a crear páginas web.</p>
+<h2>Lista Ordenada</h2>
+<ol>
+  <li>Manzana</li>
+  <li>Banana</li>
+  <li>Naranja</li>
+</ol>
+
+<h2>Lista Desordenada</h2>
+<ul>
+  <li>Perro</li>
+  <li>Gato</li>
+  <li>Pájaro</li>
+</ul>
 </body>
 </html>
