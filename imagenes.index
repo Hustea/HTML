@@ -7,5 +7,6 @@
   <h1>Lenguaje de marcas</h1>
   <p>Primer ejercicio.</p>
   <img src="https://ejemplo.com/mi_imagen.jpg" alt="Mi imagen">
+  <img src="" alt="Mi imagen">
 </body>
 </html>
