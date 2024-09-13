@@ -4,6 +4,6 @@
   <title>Mi Primera Página Web</title>
 </head>
 <body>
-  <img src="https://hustea.github.io/HTML/fotooso.jpg" alt="Mi imagen">
+  <h1>Hola</h1>
 </body>
 </html>
