@@ -4,9 +4,6 @@
   <title>Mi Primera Página Web</title>
 </head>
 <body>
-  <h1>Lenguaje de marcas</h1>
-  <p>Primer ejercicio.</p>
-  //<img src="https://ejemplo.com/mi_imagen.jpg" alt="Mi imagen">//
   <img src="https://hustea.github.io/HTML/fotooso.jpg" alt="Mi imagen">
 </body>
 </html>
